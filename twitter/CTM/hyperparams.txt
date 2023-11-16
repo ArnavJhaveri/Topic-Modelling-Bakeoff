@@ -1,0 +1,1 @@
+{"num_topics": [100], "num_top_words": 500, "percentage_of_dataset": 1, "embedding_model": "paraphrase-distilroberta-base-v2", "text_column": "message", "label_column": "age", "id_column": "Unnamed: 0"}
