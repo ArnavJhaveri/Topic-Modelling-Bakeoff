@@ -1,1 +1,0 @@
-{"num_topics": [100], "num_top_words": 500, "percentage_of_dataset": 1, "text_column": "content", "label_column": "label", "id_column": "Unnamed: 0"}
